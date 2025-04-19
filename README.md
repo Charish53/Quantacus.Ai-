@@ -116,27 +116,27 @@ We generated multiple plots to visualize the performance of the models and evalu
 ### 1. **ROC Curves** 🧩
 The **Receiver Operating Characteristic** (ROC) curve shows the performance of each model by comparing the true positive rate to the false positive rate.
 
-![ROC Curve](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/roc_curve.png)
+![ROC Curve](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/ROC.png)
 
 ### 2. **Confusion Matrix** 🔄
 A confusion matrix shows how well our classifier performs in terms of false positives, false negatives, true positives, and true negatives.
 
-![Confusion Matrix](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/confusion.png)
 
 ### 3. **Precision-Recall Curve** 💥
 This curve helps evaluate the precision and recall for each class, which is especially useful for imbalanced datasets.
 
-![Precision-Recall Curve](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/precision_recall_curve.png)
+![Precision-Recall Curve](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/precision.png)
 
 ### 4. **Random Forest & Gradient Boosting Classifier Comparison 🔥**
 We compare the performance of **Random Forest** and **Gradient Boosting** on the email data, observing the models' accuracy and precision.
 
-![RF vs GBC](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/rf_vs_gbc.png)
+![Random Forest vs Gradient Boosting](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/rf.png)
 
 ### 5. **Recall vs Threshold Plot** 🎯
 A recall vs threshold plot shows the trade-off between recall and the classification threshold.
 
-![Recall vs Threshold](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/recall_vs_threshold.png)
+![Recall vs Threshold](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/re.png)
 
 ---
 
@@ -161,11 +161,12 @@ MarketingEmailCampaign/
 ├── notebooks/
 │   ├── email.ipynb
 ├── images/
-│   ├── roc_curve.png
-│   ├── confusion_matrix.png
-│   ├── precision_recall_curve.png
-│   ├── rf_vs_gbc.png
-│   ├── recall_vs_threshold.png
+│   ├── ROC.png
+│   ├── confusion.png
+│   ├── precision.png
+│   ├── ppd.png
+│   ├── re.png
+│   ├── rf.png
 ├── requirements.txt
 └── README.md
 ```
@@ -212,11 +213,12 @@ MarketingEmailCampaign/
 ├── notebooks/
 │   ├── email.ipynb
 ├── images/
-│   ├── roc_curve.png
-│   ├── confusion_matrix.png
-│   ├── precision_recall_curve.png
-│   ├── rf_vs_gbc.png
-│   ├── recall_vs_threshold.png
+│   ├── ROC.png
+│   ├── confusion.png
+│   ├── precision.png
+│   ├── ppd.png
+│   ├── re.png
+│   ├── rf.png
 ├── requirements.txt
 └── README.md
 ```
@@ -225,9 +227,9 @@ MarketingEmailCampaign/
 
 ### **Final Notes on Images**:
 
-- Make sure to upload the images (`roc_curve.png`, `confusion_matrix.png`, `precision_recall_curve.png`, `rf_vs_gbc.png`, `recall_vs_threshold.png`) to the **`images/`** folder in the repository.
+- Make sure to upload the images (`ROC.png`, `confusion.png`, `precision.png`, `ppd.png`, `re.png`, `rf.png`) to the **`images/`** folder in the repository.
 - Replace `https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/xyz.png` with the correct links to your images once they are uploaded.
 
 ---
 
-This **README.md** should now be more interactive and appealing with emojis and a more engaging layout. It provides clear instructions on how to run the analysis, as well as a brief explanation of the models and visualizations. Let me know if you need any more changes! 😊
+This **README.md** is structured with engaging emojis and clear explanations of the models used and results obtained. It provides a professional yet fun look for your repository. Let me know if you need any more changes! 😊
