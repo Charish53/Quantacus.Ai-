@@ -116,27 +116,27 @@ We generated multiple plots to visualize the performance of the models and evalu
 ### 1. **ROC Curves** 🧩
 The **Receiver Operating Characteristic** (ROC) curve shows the performance of each model by comparing the true positive rate to the false positive rate.
 
-![ROC Curve](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/ROC.png)
+![ROC Curve](https://github.com/Charish53/Quantacus.Ai-/images/ROC.png)
 
 ### 2. **Confusion Matrix** 🔄
 A confusion matrix shows how well our classifier performs in terms of false positives, false negatives, true positives, and true negatives.
 
-![Confusion Matrix](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/confusion.png)
+![Confusion Matrix](https://github.com/Charish53/Quantacus.Ai-/images/confusion.png)
 
 ### 3. **Precision-Recall Curve** 💥
 This curve helps evaluate the precision and recall for each class, which is especially useful for imbalanced datasets.
 
-![Precision-Recall Curve](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/precision.png)
+![Precision-Recall Curve](https://github.com/Charish53/Quantacus.Ai-/images/precision.png)
 
 ### 4. **Random Forest & Gradient Boosting Classifier Comparison 🔥**
 We compare the performance of **Random Forest** and **Gradient Boosting** on the email data, observing the models' accuracy and precision.
 
-![Random Forest vs Gradient Boosting](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/rf.png)
+![Random Forest vs Gradient Boosting](https://github.com/Charish53/Quantacus.Ai-/images/rf.png)
 
 ### 5. **Recall vs Threshold Plot** 🎯
 A recall vs threshold plot shows the trade-off between recall and the classification threshold.
 
-![Recall vs Threshold](https://github.com/Charish53/MarketingEmailCampaign/blob/master/images/re.png)
+![Recall vs Threshold](https://github.com/Charish53/Quantacus.Ai-/images/re.png)
 
 ---
 
