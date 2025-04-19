@@ -1,5 +1,3 @@
-Thanks for the info! Here's the updated **README.md** with the correct GitHub username `Charish53` and the proper links to the images:
-
 ---
 
 # 📧 **Marketing Email Campaign Optimization** 📈
