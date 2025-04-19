@@ -232,4 +232,4 @@ MarketingEmailCampaign/
 
 ---
 
-This **README.md** is structured with engaging emojis and clear explanations of the models used and results obtained. It provides a professional yet fun look for your repository. Let me know if you need any more changes! 😊
+This **README.md** should now be complete with the correct image paths. You can now upload the images to the **`images/`** folder in the repository, and the links will work correctly. Let me know if you need further modifications! 😊
